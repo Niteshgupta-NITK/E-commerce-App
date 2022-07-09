@@ -14,7 +14,7 @@ info:
 #     description: for local host - regular
 
 servers:
-  - url: "{protocol}://{url}/api/{version}"
+  - url: "https://ecommercenitk.herokuapp.com//api/{version}"
     description: for local host 
     variables:
       version:
@@ -26,7 +26,6 @@ servers:
         enum:
           - localhost:3000
           - lcotshirtstore.herokuapp.com
-        default: localhost:3000
       protocol:
         enum:
           - http
