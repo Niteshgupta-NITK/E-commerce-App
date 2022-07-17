@@ -73,7 +73,11 @@ Start the server
 ```
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/56041569/179413814-95d8ccec-5fd7-4519-be7c-dd1c133f6292.png)
+![image](https://user-images.githubusercontent.com/56041569/179414112-6410fab1-7db5-4ddc-80db-4823488f2137.png)
+![image](https://user-images.githubusercontent.com/56041569/179414301-5dd99cb7-142e-490c-8213-b45ca284e5d2.png)
+![image](https://user-images.githubusercontent.com/56041569/179414571-008c284a-c8d5-48a7-bf2b-ee9d0871fd9f.png)
+![image](https://user-images.githubusercontent.com/56041569/179414981-528b1c74-3305-4f9b-9734-a73bd91718a5.png)
+
 
 
 
