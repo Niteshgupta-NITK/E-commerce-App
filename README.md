@@ -77,6 +77,12 @@ Start the server
 ![image](https://user-images.githubusercontent.com/56041569/179414301-5dd99cb7-142e-490c-8213-b45ca284e5d2.png)
 ![image](https://user-images.githubusercontent.com/56041569/179414571-008c284a-c8d5-48a7-bf2b-ee9d0871fd9f.png)
 ![image](https://user-images.githubusercontent.com/56041569/179414981-528b1c74-3305-4f9b-9734-a73bd91718a5.png)
+![image](https://user-images.githubusercontent.com/56041569/179416378-cc5a30de-95a8-4543-8710-e3ea8e95b78f.png)
+![image](https://user-images.githubusercontent.com/56041569/179416401-87f68425-aa95-4256-b417-70d31319677f.png)
+![image](https://user-images.githubusercontent.com/56041569/179416417-bf53601b-bfbc-480d-a200-0a3bab90a710.png)
+![image](https://user-images.githubusercontent.com/56041569/179416434-b3412442-68ef-4c11-90f6-e69d1b60f645.png)
+![image](https://user-images.githubusercontent.com/56041569/179416443-5d4f1709-7edc-4943-b7da-948cb6de65b8.png)
+![image](https://user-images.githubusercontent.com/56041569/179416450-41cfa052-3066-4bf8-b4dd-3ce7722ce7ec.png)
 
 
 
