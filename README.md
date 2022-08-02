@@ -20,7 +20,7 @@ A website where customers have various merhchandise.It can be purchased  and shi
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`DB_URL` - MongoDB url either cloud or localhost for your database
+```DB_URL``` - MongoDB url either cloud or localhost for your database
 
 `JWT_SECRET` - Jwt secret token 
 
